@@ -2,7 +2,7 @@
 `ONELIGHTSYSTEM (OLS)`
 
 `OLS developer admin1: naza ra svitlo`
-how to become ols developer user: apply ols initi's will be consider.
+how to become ols developer user: apply ols intro's, initi's.
 
 `OLS developer admin1: naza ra svitlo`
 `ols developer user1`:
