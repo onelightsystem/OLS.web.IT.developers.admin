@@ -1,11 +1,14 @@
 # `OLS-developer`
 #`ONELIGHTSYSTEM (OLS)`#
 
-`OLS developer admin1: naza ra svitlo`
-how to become ols developer user: apply ols intro's, initi's.
+`OLS developer admin naza ra svitlo`
+how to become ols developer user: 
+`1apply free asses.`
 https://goo.gl/forms/vfecfFzgnYOEO3Pu1
+`2get intro.
+3pass initi's.`
 
-`OLS developer admin1: naza ra svitlo`
+`OLS developer admin: naza ra svitlo`
 `ols developer user1`:
 
 `OLS policies copyrights agreements Disclaimer: https://ols-med.net/ols-copyright-trademark-policies-compliance-updates-08-2018/: 
