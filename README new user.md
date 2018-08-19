@@ -4,6 +4,7 @@
 `OLS developer admin1: naza ra svitlo`
 how to become ols developer user: apply ols intro's, initi's.
 
+
 `OLS developer admin1: naza ra svitlo`
 `ols developer user1`:
 
@@ -11,4 +12,12 @@ how to become ols developer user: apply ols intro's, initi's.
 ONELIGHTSYSTEM (OLS) is a meditation teaching receiving direct (seeing) light energy modality technique are available exclusively ONLY from an OLS Teacher and official OLS Instructor. Only an OLS Teacher, OLS Instructor or OLS student who has been initiated by OLS is entitled to be called a OLS official.` 
 `The information contained in this message may be privileged and confidential and protected from disclosure. you are hereby notified that any dissemination, distribution or copying of this information is strictly prohibited`
 
-OLS developer admin user1
+`ols developer official users
+ols developer user 1
+ols developer admin
+ols developer student 
+ols developer instructor 
+ols developer teacher 
+ols developer`
+
+
