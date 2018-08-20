@@ -4,22 +4,17 @@
 `OLS users`
 ols dev. official Q32018
 `ols developer admin `
-ols student 
-ols instructor 
-ols teacher 
-ols counselor
+`ols student` 
+`ols instructor `
+`ols teacher `
+`ols counselor`
 
-
-`OLS developer  admin: naza ra svitlo`
-how to become ols dev. official. 
-`1apply free asses.`
+`1apply free asses.` 
 https://goo.gl/forms/vfecfFzgnYOEO3Pu1
 
-`connect` https://join.slack.com/t/osl-med/shared_invite/enQtNDE5NDk0ODAzNDQ1LTZlODUxYzJhOTQxYWE4ODgwNzA2MDEwMjEyODdiNWMyNWU4NjI5YzJmYmE2MjdlZWIzZGFkZjEzNDllYmFkMzY
-
-`2get intro. 
-#assigned ols instructor / official teacher. 3pass initi's.`
-
+`ols devs. if 2confrimed #verification to reply: accept dev.s intro's invintation #assigned by `#ols official` 
+ 
+3pass initi's.` 
 
 `OLS developer admin naza ra svitlo`
 
@@ -27,11 +22,6 @@ https://goo.gl/forms/vfecfFzgnYOEO3Pu1
 ONELIGHTSYSTEM (OLS) is a meditation teaching receiving direct (seeing) light energy modality technique are available exclusively ONLY from an OLS Teacher and official OLS Instructor. Only an OLS Teacher, OLS Instructor or OLS student who has been initiated by OLS is entitled to be called a OLS official.` 
 `The information contained in this message may be privileged and confidential and protected from disclosure. you are hereby notified that any dissemination, distribution or copying of this information is strictly prohibited`
 
-`ols developer user1: _ _ _ _ _  signature service agreement`:
-
-
-
-OLSDATAbase user name: / first Light block input/recs. to the OLS.
-
+`ols devs. user1 name : _ _ _ _ _  e-signature #involve agreement`:
 
 #ols-med.net
