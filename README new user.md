@@ -15,6 +15,8 @@ how to become ols dev. official.
 `1apply free asses.`
 https://goo.gl/forms/vfecfFzgnYOEO3Pu1
 
+`connect` https://join.slack.com/t/osl-med/shared_invite/enQtNDE5NDk0ODAzNDQ1LTZlODUxYzJhOTQxYWE4ODgwNzA2MDEwMjEyODdiNWMyNWU4NjI5YzJmYmE2MjdlZWIzZGFkZjEzNDllYmFkMzY
+
 `2get intro. 
 #assigned ols instructor / official teacher. 3pass initi's.`
 
