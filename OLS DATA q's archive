@@ -1,12 +1,14 @@
-#`OLS DATAbase now#date formula =sum(31-19) Q4`  / prototype Initial first pass design/
-https://docs.google.com/spreadsheets/d/1avIwPbcB1EHVF3VJnbMl_U3sdU2twPduNj3cm1RPzz0/edit?usp=sharing
+#`OLS DATAbase  / `Initial architectual design vesrion 0.1.3.3` `formula =sum /Q * 1.1 ` (Sc/Lc/Q)
+`ols server puplic id:
+https://docs.google.com/spreadsheets/d/1avIwPbcB1EHVF3VJnbMl_U3sdU2twPduNj3cm1RPzz0/edit?usp=sharing`
 
 `ols developer priority set` /1
 1. indicate - configurate analytics  (open for pull requests)
+command to ols developer admin: /go stettings - select.
 2. 
 
 
-ols database architectual design implementd updates
+ols database  implementd updates
 
 
 
