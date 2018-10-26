@@ -1,15 +1,13 @@
-# `OLS-developer`
+
 #`ONELIGHTSYSTEM (OLS)`# 
+# `OLS-developer-admin`
 
 `OLS #active users`
 ols dev. user/team Q32018
-`ols developer admin `
+`ols teacher`
+`ols instructor  
 `ols student` 
-`ols instructor ` / \\ `ols teacher ` 
- /// `ols counselor continental official`
-
-`1apply free asses.` 
-https://goo.gl/forms/vfecfFzgnYOEO3Pu1
+apply https://goo.gl/forms/SCUAP7hFvjJ2NwBJ3
 
 `ols devs. if 2confrimed #verification to reply: accept dev.s ols assiment #ols official regulation.
 
