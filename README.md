@@ -1,18 +1,16 @@
-`ONELIGHTSYSTEM OLS`
-`OLS iee.aeo`
-# OLS-web.developer-admin1 (updates02) 
-OLS developer admin (attention sensitive data open for public viewing only and Sign Up opportunities for more information)
+import {StatuteOLS } from: `olsm/statute.component` : `onelightsystemOLS``OLSiee.aeo``OLSME`
+# OLS.web.IT.developer.Admin |updates03| 
+|attention sensitive data open for public viewing only|
 
-`OLS directory`
-`README for new user`
+import {OLS directory} from: `README for new OLS prospects`
+# OLS INTRO student submit application free asessment https://goo.gl/forms/SCUAP7hFvjJ2NwBJ3
 
-OLS student (free asessment application https://goo.gl/forms/SCUAP7hFvjJ2NwBJ3)
-
+import {OLS directory} from
 OLS experience part2 (open-public opportunities)  ols promoter & ipo. private.public rsrv.
 OLS web. developers 
 - early prototype (first pass initial design2017-2018) OLS data center developed.
 
-OLS e-tech.web-developer's teams 
+# OLS.web.IT.developer.admin-teams 
 
 submit the following verification form https://goo.gl/forms/trx6m7l6Y6kpfCRI2
 
