@@ -1,13 +1,15 @@
-ONELIGHTSYSTEM OLS
-`initial OLS developed Light unit-set
- }OLS teacher
-OLS teachings
-1. preparation 
-0-100
-2. (minning/ligh:hash:scripting) 
+`ONELIGHTSYSTEM.OLS`
+`initial OLS developed Light unit-set config.`{import} from:|wiki.intro|
+
+{import}OLS.teacher from: olsm/OLS.teachings
+ OLS student/inu.ini /
+1.preparation 
+0 duration up to 0:15
+2. capture source record 
+3.  Minning/ligh:hash:scripting.
 0-300
-
-`#date`
-`#time`
-`#LD light duration recorder`
-
+Config. include:
+# date`
+# local location time`
+# LD light duration recorder`
+{import} |https://www.ols-med.net/olsm/ols-agreements-updates-10-2018|
