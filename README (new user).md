@@ -1,13 +1,13 @@
 
-#`ONELIGHTSYSTEM (OLS)`# 
-# `OLS-developer-admin`
-
-`OLS #active users`
-ols dev. user/team Q32018
-`ols teacher`
-`ols instructor
-`ols official`
+`ONELIGHTSYSTEM (OLS)`
+`OLS-developer-admin`
+`OLS #active users` = current user
+`ols aste. eae. (master teacher)`
+`ols eae. (teacher)`
+`ols inu.ini.(instructo. intiricto)
+`ols inu. (instructo)
 `ols student` 
+
 NEW apply for verification to receive OLS INTRO service: https://goo.gl/forms/SCUAP7hFvjJ2NwBJ3
 
 `OLS policies copyrights agreements Disclaimer
