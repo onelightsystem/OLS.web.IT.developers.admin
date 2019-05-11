@@ -1,0 +1,20 @@
+#`OLS DATAbase  / `Initial architectual design 
+version Q9 OLS.746 `formula`
+ OLS version = sum LD;
+period Q9 = 
+
+`ols server puplic id:
+www.ols-med.net
+
+`ols developer priority set` /1
+1.configurate data storage  (open for pull requests)
+--! firebase , nosql--!
+
+
+2. indicate analytics data into structured fileds
+
+
+ols database  implemented updates
+
+`2017 OLS database` `stored archive` `prototype design @google data spreadsheet`
+https://docs.google.com/spreadsheets/d/148_vxIxfa6-ZFQhePEDPyyiJmeS7qeKCF4EINNXUu2M/edit?usp=sharing
